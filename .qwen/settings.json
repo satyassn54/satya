@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "WebFetch(www.linkedin.com)",
+      "WebFetch(www.google.com)",
+      "Bash(file *)",
+      "Bash(identify *)"
+    ]
+  },
+  "$version": 4
+}
